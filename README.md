@@ -14,8 +14,8 @@ You have the option to take a webcam picture and attach it the email.
 	<li> Open the info.txt and change the information in it to to set up the script </li>
 	<li> If you get an SMTP Authentication Error (which you probably will get): </li>
 	<ul>
-		<li>You will need to allow less secure apps to access the sending email (the from email)</li>
-		<li>Google exploitation: <a href="https://support.google.com/accounts/answer/6010255">Allow less secure apps to access your account</a></li>
+		<li>You will need to allow less secure apps to access the sender email (the from email)</li>
+		<li>This is how you do it: <a href="https://support.google.com/accounts/answer/6010255">Allow less secure apps to access your account</a></li>
 	</ul>
 	<li>Try again, and it should work.</li>
 </ol>
