@@ -39,7 +39,7 @@ Terminate if catched => If set to True the script will terminate after it sends 
 
 Seconds between searches => The time in seconds between each search. Higher value = less realible
 
-Use camera => If set to True, the script will use the device's webcam to snap a an image and attatch it to the email.
+Use camera => If set to True, the script will use the device's webcam to snap an image and attatch it to the email.
 
 Picture name => name of the attached image.
 
