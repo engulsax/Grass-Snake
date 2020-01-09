@@ -38,11 +38,11 @@ Terminate if catched => If set to True the script will terminate after it sends 
 
 Seconds between searches => The time in seconds between each search. Higher value = less realible
 
-Use camera = If set to True, the script will use the device's webcam to snap a an image and attatch it to the email.
+Use camera => If set to True, the script will use the device's webcam to snap a an image and attatch it to the email.
 
-Picture name = name of the attached image.
+Picture name => name of the attached image.
 
-Message = Message which will be displayed in the email.
+Message => Message which will be displayed in the email.
 
 <b>Not that you can NOT have line breakes in a value in the info.txt files</b>
 
