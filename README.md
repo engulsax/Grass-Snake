@@ -45,7 +45,7 @@ Picture name => name of the attached image.
 
 Message => Message which will be displayed in the email.
 
-<b>Not that you can NOT have line breakes in a value in the info.txt files</b>
+<b>Note that you can NOT have line breakes in a value in the info.txt files</b>
 
 # Why the name "Grass Snake"?
 Glad you asked! 
