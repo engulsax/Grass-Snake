@@ -1,0 +1,10 @@
+foldername = test-folder
+from email = senderemail@gmail.com
+to email = reciveremail@gmail.com
+email password = youremailpassword
+Hours to live = 1
+Terminate if catched = True
+Seconds between searches = 1
+Use camera = True
+Picture name = busted
+Message = Hey snooper, You just got busted by Grass Snake!
