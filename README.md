@@ -49,7 +49,7 @@ Message => Message which will be displayed in the email.
 # Why the name "Grass Snake"?
 Glad you asked! 
 
-In Swedish Grass Snake = Snok
+In Swedish Grass Snake = Snok.
 If one were to transalate from swedish "snoka" to english it would be "snooping"
 
 Also, grass snake was written in python, which makes the name fitting.
