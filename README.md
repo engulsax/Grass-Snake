@@ -24,6 +24,7 @@ You have the option to take a webcam picture and attach it the email.
 
 # Info.txt
 You can modify the following things:
+
 foldername => The name of the map which should be covered by the script (NOT the path!).
 
 from email => The sender email.
