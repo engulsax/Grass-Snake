@@ -1,9 +1,3 @@
-try:
-    input = raw_input
-except NameError:
-    #we're already in 3.x and don't need to do anything
-    pass
-
 #FOR SENDING EMAIL
 import smtplib
 import email
