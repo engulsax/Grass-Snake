@@ -1,5 +1,5 @@
 # Grass-Snake
-A python script which will notify you via email if a user snoops around in a pre-decided folder.
+A python script for Windows which will notify you via email if a user snoops around in a pre-decided folder.
 You have the option to take a webcam picture and attach it the email.
 
 <b>Currently, this only works with gmail</b>

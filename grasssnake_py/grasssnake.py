@@ -2,7 +2,6 @@
 import smtplib
 import email
 import imghdr
-
 def sendEmail(toEmail, fromEmail, emailPassword, textMessage, attachPicture = False, pictureName = None):   
 
     msg = email.message.EmailMessage()
@@ -45,8 +44,7 @@ fromEmail = userinfo[1]
 toEmail = userinfo[2]
 emailPassword = userinfo[3]
 #Making hours to seconds
-TTL = int(userinfo[4]) * 3600 
-
+TTL = float(userinfo[4]) * 3600 
 terminatedIfCatched = userinfo[5]
 secondsBetweenSearches = userinfo[6]
 useCamera = userinfo[7]
@@ -64,4 +62,4 @@ while time.time() - startTime <= TTL:
             sendEmail(toEmail, fromEmail, emailPassword, message)
         if terminatedIfCatched in ["True", "true", "1"]:
             break
-    time.sleep(int(secondsBetweenSearches))
+    time.sleep(float(secondsBetweenSearches))
